@@ -13,12 +13,6 @@ This GitHub serves as a structured portfolio showcasing my approach to solving p
 - **End-to-End Data Pipelines**
 - **Applied AI for Real-World Use Cases**
 
-### Technical Stack
-- **Languages:** Python, PySpark, SQL
-- **Tools:** Excel, Taleau, PowerBI, Microsoft Fabric
-- **Cloud:** Microsoft Azure, AWS
-- **Core Skills:** Data Processing, Feature Engineering, Model Development, Evaluation, Applied AI
-
 ### Selected Work
 The pinned repositories highlight projects that demonstrate:
 - Structured problem formulation
