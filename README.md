@@ -21,6 +21,6 @@ The pinned repositories highlight projects that demonstrate:
 
 Each repository includes documentation and notebooks designed for easy review.
 
-### Profile Access
+### Profile
 - Portfolio: https://shiv-karthee-janardhanan.netlify.app/
  
