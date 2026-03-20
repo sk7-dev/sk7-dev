@@ -16,8 +16,8 @@ Here you'll find projects in:
 Python | SQL | PySpark | Spark | Azure | AWS | Snowflake | dbt | Airflow | Kafka | Docker | FastAPI | Power BI | Tableau
 
 ## Featured Areas
-[**Data Engineering**]  |  [**Machine Learning**]  |  **Analytics Engineering**  |  **Applied AI**
-![Python] 
+**Data Engineering**  |  **Machine Learning**  |  **Analytics Engineering**  |  **Applied AI**
+
 ### Profile
 - Portfolio: https://shiv-karthee-janardhanan.netlify.app/
  
