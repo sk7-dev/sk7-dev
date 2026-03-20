@@ -1,25 +1,22 @@
-<h2 align="center">Hi, I'm Shiv Karthee Janardhanan</h2> 
+<h1 align="center">Hi, I'm Shiv Karthee Janardhanan</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1F8B4C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Analytics%20Engineering-6F42C1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Applied%20AI-FF6F00?style=for-the-badge" />
+  <strong>Data Engineering</strong> • <strong>Machine Learning</strong> • <strong>Analytics Engineering</strong> • <strong>Applied AI</strong>
 </p>
 
-<h3 align="center">I build scalable data pipelines, ML-powered applications, and analytics solutions.</h3>
+<p align="center">
+  Building scalable data pipelines, ML-powered applications, and analytics solutions.
+</p>
 
-I work across the **Data and AI landscape**, focusing on how data is collected, transformed, modeled, and applied to build intelligent systems. My background spans data engineering, machine learning, and applied analytics, with hands-on work in Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI. I enjoy building end-to-end systems, from ingestion and transformation to modeling, APIs, and dashboards.
+---
 
-Here you'll find projects in:
-- scalable ETL and lakehouse architectures
-- real-time data and recommendation systems
-- machine learning, deep learning, and NLP
-- analytics, experimentation, and visualization
+I work across data engineering, machine learning, and applied analytics, building systems that turn raw data into reliable products and insights. My experience spans Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI, with a focus on end-to-end pipelines, ML applications, and analytics workflows.
+
+**Core areas:** scalable ETL, real-time data systems, recommendation systems, machine learning, and analytics engineering.
 
 ## Tech Stack
-Python | SQL | PySpark | Spark | Azure | AWS | Snowflake | dbt | Airflow | Kafka | Docker | FastAPI | Power BI | Tableau
+Python, SQL, PySpark, Spark, Azure, AWS, Snowflake, dbt, Airflow, Kafka, Docker, FastAPI, Power BI, Tableau
 
 ### Profile
 - Portfolio: https://shiv-karthee-janardhanan.netlify.app/
- 
+- Email: karthee.shiv@gmail.com
