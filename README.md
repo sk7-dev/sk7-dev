@@ -1,6 +1,19 @@
 ## Shiv | Data & AI
 
 Welcome to my GitHub.
+<h1 align="center">Hi, I'm Shiv Karthee Janardhanan</h1>
+<h3 align="center">Data Engineer | ML Builder | Analytics Engineer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1F8B4C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics%20Engineering-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Applied%20AI-FF6F00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  I build scalable data pipelines, ML-powered applications, and analytics solutions.
+</p>
 
 ### I'm Shiv and I build data pipelines, ML-powered applications, and analytics solutions.
 
@@ -16,7 +29,6 @@ Here you'll find projects in:
 Python | SQL | PySpark | Spark | Azure | AWS | Snowflake | dbt | Airflow | Kafka | Docker | FastAPI | Power BI | Tableau
 
 ## Featured Areas
-**Data Engineering**  |  **Machine Learning**  |  **Analytics Engineering**  |  **Applied AI**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge" />
