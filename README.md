@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shiv Karthee Janardhanan</h1>
+<h2 align="center">Hi, I'm Shiv Karthee Janardhanan</h2>
 
 <p align="center">
   <strong>Data Engineering</strong> • <strong>Machine Learning</strong> • <strong>Analytics Engineering</strong> • <strong>Applied AI</strong>
@@ -16,15 +16,8 @@
 ---
 
 
-<p align="center">
-  I build end-to-end data and AI systems across engineering, analytics, and machine learning, with experience in Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI.
-</p>
- 
+I build end-to-end data and AI systems across data engineering, analytics, and machine learning. My work focuses on scalable pipelines, ML applications, and practical analytics solutions.
 
-<p align="center">
-  <strong>Tech Stack</strong>  
-</p>
- <p align="center">
-  Python | SQL | PySpark | Spark | Azure | AWS | Snowflake | dbt | Airflow | Kafka | Docker | FastAPI | Power BI | Tableau
-</p>
+### Tech Stack
+Python · SQL · PySpark · Spark · Azure · AWS · Snowflake · dbt · Airflow · Kafka · Docker · FastAPI · Power BI · Tableau
 
