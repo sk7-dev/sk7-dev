@@ -15,8 +15,10 @@
 
 ---
 
-I build end-to-end data and AI systems across engineering, analytics, and machine learning, with experience in Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI.
 
+<p align="center">
+  I build end-to-end data and AI systems across engineering, analytics, and machine learning, with experience in Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI.
+</p>
 **Core focus:** scalable ETL, real-time data systems, recommendation systems, ML applications, and analytics engineering.
 
 **Tech:** Python, SQL, PySpark, Spark, Azure, AWS, Snowflake, dbt, Airflow, Kafka, Docker, FastAPI, Power BI, Tableau
