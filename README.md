@@ -2,24 +2,21 @@
 
 Welcome to my GitHub.
 
-I work across the **Data and AI landscape**, focusing on how data is collected, transformed, modeled, and applied to build intelligent systems. My projects span data engineering, analytics, machine learning, and applied AI, with an emphasis on clarity, reproducibility, and real-world relevance.
+### I'm Shiv and I build data pipelines, ML-powered applications, and analytics solutions.
 
-This GitHub serves as a structured portfolio showcasing my approach to solving problems using data-driven and AI-based methods.
+I work across the **Data and AI landscape**, focusing on how data is collected, transformed, modeled, and applied to build intelligent systems. My background spans data engineering, machine learning, and applied analytics, with hands-on work in Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI. I enjoy building end-to-end systems, from ingestion and transformation to modeling, APIs, and dashboards.
 
-### Areas of Focus
-- **Data Analysis & Modelling**
-- **Machine Learning & GPT-based Systems**
-- **Multimodal AI Applications**
-- **End-to-End Data Pipelines**
-- **Applied AI for Real-World Use Cases**
+Here you'll find projects in:
+- scalable ETL and lakehouse architectures
+- real-time data and recommendation systems
+- machine learning, deep learning, and NLP
+- analytics, experimentation, and visualization
 
-### Selected Work
-The pinned repositories highlight projects that demonstrate:
-- Structured problem formulation
-- Clean and reproducible workflows
-- Practical application of data and AI techniques
+## Tech Stack
+Python | SQL | PySpark | Spark | Azure | AWS | Snowflake | dbt | Airflow | Kafka | Docker | FastAPI | Power BI | Tableau
 
-Each repository includes documentation and notebooks designed for easy review.
+## Featured Areas
+Data Engineering • Machine Learning • Analytics Engineering • Applied AI
 
 ### Profile
 - Portfolio: https://shiv-karthee-janardhanan.netlify.app/
