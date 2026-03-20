@@ -18,6 +18,13 @@ Python | SQL | PySpark | Spark | Azure | AWS | Snowflake | dbt | Airflow | Kafka
 ## Featured Areas
 **Data Engineering**  |  **Machine Learning**  |  **Analytics Engineering**  |  **Applied AI**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1F8B4C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Analytics%20Engineering-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Applied%20AI-FF6F00?style=for-the-badge" />
+</p>
+
 ### Profile
 - Portfolio: https://shiv-karthee-janardhanan.netlify.app/
  
