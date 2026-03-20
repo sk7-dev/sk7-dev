@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/Applied%20AI-FF6F00?style=for-the-badge" />
 </p>
 
-<p align="center">
- <h3>I build scalable data pipelines, ML-powered applications, and analytics solutions</h3> 
-</p>
+<h3 align="center">I build scalable data pipelines, ML-powered applications, and analytics solutions.</h3>
 
 I work across the **Data and AI landscape**, focusing on how data is collected, transformed, modeled, and applied to build intelligent systems. My background spans data engineering, machine learning, and applied analytics, with hands-on work in Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI. I enjoy building end-to-end systems, from ingestion and transformation to modeling, APIs, and dashboards.
 
