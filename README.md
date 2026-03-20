@@ -8,15 +8,15 @@
   Building scalable data pipelines, ML-powered applications, and analytics solutions.
 </p>
 
+<p align="center">
+  <a href="https://shiv-karthee-janardhanan.netlify.app/">Portfolio</a> •
+  <a href="mailto:karthee.shiv@gmail.com">Email</a>
+</p>
+
 ---
 
-I work across data engineering, machine learning, and applied analytics, building systems that turn raw data into reliable products and insights. My experience spans Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI, with a focus on end-to-end pipelines, ML applications, and analytics workflows.
+I build end-to-end data and AI systems across engineering, analytics, and machine learning, with experience in Python, SQL, PySpark, Azure, AWS, Kafka, Airflow, dbt, and FastAPI.
 
-**Core areas:** scalable ETL, real-time data systems, recommendation systems, machine learning, and analytics engineering.
+**Core focus:** scalable ETL, real-time data systems, recommendation systems, ML applications, and analytics engineering.
 
-## Tech Stack
-Python, SQL, PySpark, Spark, Azure, AWS, Snowflake, dbt, Airflow, Kafka, Docker, FastAPI, Power BI, Tableau
-
-### Profile
-- Portfolio: https://shiv-karthee-janardhanan.netlify.app/
-- Email: karthee.shiv@gmail.com
+**Tech:** Python, SQL, PySpark, Spark, Azure, AWS, Snowflake, dbt, Airflow, Kafka, Docker, FastAPI, Power BI, Tableau
