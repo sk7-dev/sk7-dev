@@ -13,11 +13,5 @@
   <a href="mailto:karthee.shiv@gmail.com">Email</a>
 </p>
 
----
 
-
-I build end-to-end data and AI systems across data engineering, analytics, and machine learning. My work focuses on scalable pipelines, ML applications, and practical analytics solutions.
-
-### Tech Stack
-Python · SQL · PySpark · Spark · Azure · AWS · Snowflake · dbt · Airflow · Kafka · Docker · FastAPI · Power BI · Tableau
 
