@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building scalable data pipelines, ML-powered applications, and analytics solutions.
+  Building scalable data pipelines, ML powered applications, and analytics solutions.
 </p>
 
 <p align="center">
