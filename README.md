@@ -19,12 +19,6 @@
 <br/>
 
 <h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="[https://github-readme-stats.vercel.app/api?username=sk7-dev](https://streak-stats.demolab.com?user=sk7-dev)&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=sk7-dev](https://streak-stats.demolab.com?user=sk7-dev)&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=sk7-dev&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
 </p>
