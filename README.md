@@ -12,6 +12,10 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=kubernetes,git,github,vscode,linux,bash&perline=7" />
 </p>
+<h2 align="center">How I Work</h2>
+<p align="center">
+  <img src="./assets/how-i-work.svg" width="900" alt="Research → Prototype → Measure → Ship → Iterate" />
+</p>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=sk7-dev&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true" alt="GitHub Streak" />
