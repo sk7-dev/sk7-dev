@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">〔 TECH STACK 〕</h2>
+<h2 align="center">MY TOOLBOX</h2>
 <p align="center"><b>◆ Languages &amp; Dev Tools ◆</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,js,mysql,postgres,mongodb,tensorflow&perline=7" />
@@ -26,7 +26,6 @@
 
 <h2 align="center">📈 Statistics</h2>
 <p align="center">
-  <img height="170" src="https://YOUR-INSTANCE.vercel.app/api?username=sk7-dev&show_icons=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" />
   <img height="170" src="https://streak-stats.demolab.com?user=sk7-dev&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" />
 </p>
 
