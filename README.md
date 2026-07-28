@@ -14,7 +14,7 @@
 </p>
 <h2 align="center">How I work</h2>
 <p align="center">
-  <img src="./assets/how-i-work.svg" width="940" alt="Research → Prototype → Measure → Ship → Iterate" />
+  <img src="./assets/how-i-work.svg?v=2" width="940" alt="How I work: Research → Prototype → Measure → Ship → Iterate" />
 </p>
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
